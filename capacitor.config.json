@@ -1,0 +1,27 @@
+{
+	"appId": "ng.provo.business",
+	"appName": "Prozo",
+	"webDir": "dist",
+	  
+  "plugins":{
+		"SplashScreen": {
+			"launchShowDuration": 0,
+			"backgroundColor": "#094938",
+			"launchAutoHide": true,
+			"androidSplashResourceName": "launch_splash"
+		},
+
+		"Keyboard": {
+			"resize": "body",
+			"resizeOnFullScreen": false
+		},
+		
+		"Server": {
+			"cleartext": true,
+			"hostname": "admin-main-dev.onrender.com",
+			"androidScheme": "https"
+			
+		}
+	}
+}
+

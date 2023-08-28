@@ -1,0 +1,7 @@
+{
+  "name": "Prozo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

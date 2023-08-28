@@ -1,0 +1,1 @@
+import{r as s,o as n,a as r,w as e,d as t,b as a,m as c,n as l,e as _}from"./index-ffa3455d.js";const p=_("h3",{class:"px-4 text-2xl font-semibold text-primary"},"Legal",-1),i={__name:"LegalScreen",setup(u){return(m,d)=>{const o=s("PNav");return n(),r(t(l),null,{default:e(()=>[a(o,{title:""}),a(t(c),{fullscreen:!0},{default:e(()=>[p]),_:1})]),_:1})}}};export{i as default};
